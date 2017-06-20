@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: before-each
+# key: befe
+# --
+beforeEach(function () {
+                    $0
+});
