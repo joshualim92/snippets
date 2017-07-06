@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: sinon.restore
+# key: re
+# --
+$1.$2.restore();
