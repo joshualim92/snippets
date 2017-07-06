@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: sinon.stub
+# key: st
+# --
+sinon.stub($1,'$2');
