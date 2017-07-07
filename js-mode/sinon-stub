@@ -2,4 +2,4 @@
 # name: sinon.stub
 # key: st
 # --
-sinon.stub($1,'$2');
+sinon.stub($1, '$2');
